@@ -27,7 +27,7 @@ a {
 }
 
 a:focus {
-  outline: aqua;
+
 }
 
 form {
@@ -39,7 +39,7 @@ form {
 }
 
 img:focus {
-  outline: aqua;
+  
 }
 
 input[type="text"], input[type="number"], textarea {
@@ -47,7 +47,7 @@ input[type="text"], input[type="number"], textarea {
 }
 
 input:focus {
-  outline: aqua;
+  
 }
 
 button {
