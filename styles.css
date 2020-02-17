@@ -38,6 +38,10 @@ form {
   margin: 40px auto;
 }
 
+img:focus {
+  outline: aqua;
+}
+
 input[type="text"], input[type="number"], textarea {
   width: 100%;
 }
